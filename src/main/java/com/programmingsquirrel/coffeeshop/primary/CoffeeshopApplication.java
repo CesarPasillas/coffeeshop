@@ -1,6 +1,6 @@
-package com.programmingsquirrel.coffeeshop;
+package com.programmingsquirrel.coffeeshop.primary;
 
-import com.programmingsquirrel.coffeeshop.impl.MakeCoffeeImplementation;
+import com.programmingsquirrel.coffeeshop.primary.impl.MakeCoffeeImplementation;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
